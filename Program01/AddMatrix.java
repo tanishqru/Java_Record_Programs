@@ -1,4 +1,4 @@
-package Java_Programs.Program01;
+package Java_Record_Programs.Program01;
 import java.util.Scanner;
 
 public class AddMatrix {

@@ -1,4 +1,4 @@
-package Java_Programs.Program03;
+package Java_Record_Programs.Program03;
 
 public class Employee{
     private int id;

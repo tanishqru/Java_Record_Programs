@@ -1,4 +1,4 @@
-package Java_Programs.Program02;
+package Java_Record_Programs.Program02;
 
 public class Stack{
     private int arr[];

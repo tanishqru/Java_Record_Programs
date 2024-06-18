@@ -1,4 +1,4 @@
-package Java_Programs.Program05;
+package Java_Record_Programs.Program05;
 
 public class Circle extends Shape{
     private double radius;

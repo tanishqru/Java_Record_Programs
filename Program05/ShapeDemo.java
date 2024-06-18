@@ -1,4 +1,4 @@
-package Java_Programs.Program05;
+package Java_Record_Programs.Program05;
 
 public class ShapeDemo {
     public static void main(String [] args){

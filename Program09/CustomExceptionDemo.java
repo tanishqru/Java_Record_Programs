@@ -1,4 +1,4 @@
-package Java_Programs.Program09;
+package Java_Record_Programs.Program09;
 
 public class CustomExceptionDemo {
     static double divide(int numerator, int denominator) throws DivisionByZeroException{

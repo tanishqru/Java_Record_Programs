@@ -1,4 +1,4 @@
-package Java_Programs.Program07;
+package Java_Record_Programs.Program07;
 
 public class ResizeDemo{
     public static void main(String [] args){
